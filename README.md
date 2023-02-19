@@ -1,21 +1,19 @@
 # Games
+##  The Games Project
+### Part of [Dockyard Academy](https://github.com/DockYard-Academy/curriculum)
 
-**TODO: Add description**
+<br>
 
-## Installation
+Games included:
+- Guessing Game
+- Rock Paper Scissors
+- Wordle
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `games` to your list of dependencies in `mix.exs`:
+<br>
 
-```elixir
-def deps do
-  [
-    {:games, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/games>.
-
+  In the Games project, beyond the challenge of writing the games themselves, we learned how to:
+- Document Elixir modules and functions.
+- Test for Elixir modules and functions.
+- Use dialyzer to check for type errors.
+- Use ExDoc to generate documentation.
+- Use Credo to check for code style errors.
