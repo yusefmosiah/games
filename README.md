@@ -11,8 +11,8 @@ Games included:
 <br>
 
   In the Games project, beyond the challenge of writing the games themselves, we learned how to:
-- Document Elixir modules and functions.
-- Test for Elixir modules and functions.
-- Use dialyzer to check for type errors.
-- Use ExDoc to generate documentation.
-- Use Credo to check for code style errors.
+- Document Elixir modules and functions
+- Test Elixir modules and functions
+- Use dialyzer to check for type errors
+- Use ExDoc to generate documentation
+- Use Credo to check for code style errors
