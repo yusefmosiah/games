@@ -1,5 +1,4 @@
 # Games
-##  The Games Project
 ### Part of [Dockyard Academy](https://github.com/DockYard-Academy/curriculum)
 
 <br>
